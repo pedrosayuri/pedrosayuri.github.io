@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: yellow;
+    text-align: center;
+}
+#Tela{
+    width: 640px;
+    height: 630px;
+    border: 5px solid black;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 10px;
+    background: url("../img/FundoM.jpeg");
+}
+
+.Nome{
+    width: 640px;
+    height: 45px;
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background:rgba(43, 196, 63, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.Jogar{
+    width: 175px;
+    height: 45px;
+    position: absolute;
+    margin: 185px auto;
+    margin-left: 37px;
+    text-align: center;
+    border-radius: 15px;
+    background:rgb(43, 196, 63);
+}
+
+.ComoJogar{
+    width: 175px;
+    height: 45px;
+    position: absolute;
+    margin: 260px auto;
+    margin-left: 37px;
+    text-align: center;
+    border-radius: 15px;
+    background:rgb(43, 196, 63);
+}
+
+.Sair{
+    width: 175px;
+    height: 45px;
+    position: absolute;
+    margin: 335px auto;
+    margin-left: 37px;
+    text-align: center;
+    border-radius: 15px;
+    background:rgb(43, 196, 63);
+}
+
+
+.Jogar:hover{
+    box-shadow: 0 0 50px white;
+}
+
+.ComoJogar:hover{
+    box-shadow: 0 0 50px white;
+}
+
+.Sair:hover{
+    box-shadow: 0 0 50px white;
+}
+
+
