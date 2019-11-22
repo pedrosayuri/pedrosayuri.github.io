@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: yellow;
+    background-color:rgb(11, 54, 119);
     text-align: center;
 }
 
@@ -16,6 +16,22 @@ body{
     margin: 10px auto;
     border-radius: 10px;
     background: url("../img/cerebro-fase.png");
+}
+
+.Passar{
+    width: 100px;
+    height: 50px;
+    margin-top: 465px;
+    margin-left: 545px;
+    background: url("../img/seta.png")
+}
+
+.Voltar{
+    width: 100px;
+    height: 50px;
+    margin-top: -50px;
+    margin-right: 545px;
+    background: url("../img/seta1.png")
 }
 
 .card{
@@ -53,6 +69,10 @@ body{
 }
 
 .card:hover{
+    box-shadow: 0 0 10px #aaa;
+}
+
+.Passar:hover{
     box-shadow: 0 0 10px #aaa;
 }
 

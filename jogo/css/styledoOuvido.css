@@ -1,0 +1,8 @@
+#Tela{
+    width: 640px;
+    height: 630px;
+    border: 5px solid black;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 10px;
+    background: url("../img/orelha.png");

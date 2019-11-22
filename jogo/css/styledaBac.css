@@ -1,6 +1,8 @@
-.Bac1{
-    width: 10px;
-    height: 15px;
-    border-radius: 10px;
-    background: blue
-}
+.Bacteria{
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        margin: 200px;
+        margin-left: 150px;
+        background: rgba(0, 0, 255, 0)
+    }
