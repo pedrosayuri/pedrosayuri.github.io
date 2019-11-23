@@ -1,8 +1,14 @@
+body{
+    text-align: center;
+    background-color:rgb(11, 54, 119);
+    margin: 30px;
+}
+
 .Bacteria{
-    width: 200px;
+    width: 400px;
     height: 219px;
     position: absolute;
-    margin: 225px;
-    margin-left: 400px;
+    margin: 230px;
+    margin-left: 760px;
     background: rgba(0, 0, 255, 0)
 }
