@@ -27,7 +27,7 @@
     var mvLeft = mvUp = mvRight = mvDown = false;
 
     var tileSize = 128;
-    var tileSrcSize = 204;
+    var tileSrcSize = 201;
     
     var img = new Image();
         img.src = "img/FundoN.png";

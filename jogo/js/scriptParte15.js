@@ -27,10 +27,10 @@
     var mvLeft = mvUp = mvRight = mvDown = false;
 
     var tileSize = 128;
-    var tileSrcSize = 204;
+    var tileSrcSize = 201;
     
     var img = new Image();
-        img.src = "img/Fundo1.png";
+        img.src = "img/fundo1.png";
         img.addEventListener("load", function(){
             requestAnimationFrame(loop, cnv);
         },false);

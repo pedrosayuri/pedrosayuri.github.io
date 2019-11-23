@@ -40,8 +40,8 @@
     var player = {
         x: tileSize + 2,
         y: tileSize + 2,
-        width: 100,
-        height: 100,
+        width: 104,
+        height: 104,
         speed: 2,
         srcX: 0,
         srcY: tileSrcSize,
