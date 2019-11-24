@@ -13,10 +13,10 @@ body{
     background: url("../img/regras-menu.png");
 }
 
-.voltar{
+.Voltar{
     width: 100px;
     height: 50px;
     margin-top: 580px;
-    margin-left: 545px;
+    margin-left: -5px;
     background: url("../img/seta1.png")
 }
