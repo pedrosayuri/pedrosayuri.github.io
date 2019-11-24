@@ -18,7 +18,7 @@
         },false);
 
     var imgB = new Image();
-        imgB.src = "img/bacteria01.png";
+        imgB.src = "img/bacteria03.png";
         imgB.addEventListener("load", function(){
             requestAnimationFrame(loop, cnv);
         },false);
